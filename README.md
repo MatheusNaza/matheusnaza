@@ -9,6 +9,8 @@
 
 🌟 Visão: Estou em busca de oportunidades para aplicar meu conhecimento, aprender com os desafios e contribuir para projetos inovadores na área de tecnologia. Meu objetivo é crescer não apenas como profissional, mas também como pessoa, trazendo uma perspectiva única para a comunidade tecnológica.
 
+## Estou Aprendendo
+
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" />
 
 ## Ferramentas e Tecnologias
