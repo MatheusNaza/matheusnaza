@@ -18,14 +18,20 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 Estatísticas do GitHub
 <div>
 <a href="https://github.com/MatheusNaza">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNaza&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusNaza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+## 🔍 Projetos em Destaque
+<div>
+  Em Breve
+</div>
+  
+  ## 📫 Contatos
 <div>
   <!--
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
