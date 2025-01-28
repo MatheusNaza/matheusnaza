@@ -23,8 +23,10 @@
 <div align = "left">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" />
 </div>
+
 ## Ferramentas e Tecnologias
-<div align = "left">
+
+<div align = "left"> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
 </div>
 
@@ -40,7 +42,9 @@
 - ⚡ Fun fact: ...
 -->
 ## 📊 Estatísticas do GitHub
+
 <div>
+  
 <a href="https://github.com/MatheusNaza">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNaza&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="180em" src= "https://github-readme-stats.vercel.app/api?username=MatheusNaza&show_icons=true&theme=radical"/>
@@ -48,6 +52,7 @@
 </div>
     
   ## 📫 Contatos
+  
 <div align = "left">
   <!--
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
