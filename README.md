@@ -2,8 +2,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github." alt="Typing SVG" /></a>
 <div>
-<p align="center">
   
+<p align="center"> 
 👋 Me chamo Matheus Nazareth, tenho 25 anos e sou um profissional de TI, atualmente cursando Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2027. Me formei inicialmente em Educação Física, em 2023. Porém, apesar de gostar dessa área, minha atenção sempre foi atraída para a tecnologia. Então decidi mergulhar de cabeça nesse mundo e agora estou constantemente explorando suas vastas áreas para encontrar minha verdadeira paixão dentro desse universo.
 
 🔍 Interesses: Estou em uma jornada contínua de descoberta, fascinado pelas infinitas possibilidades que a tecnologia oferece. Embora ainda esteja explorando os diferentes campos da TI, tenho um interesse particular em como a tecnologia pode melhorar nossas vidas de maneiras inovadoras e significativas. Estou especialmente animado com a ideia de um dia me tornar um profissional Full Stack.
@@ -13,7 +13,6 @@
 🎮 Hobbies: Quando não estou estudando ou explorando o mundo da tecnologia, você provavelmente me encontrará imerso em jogos, assistindo lives, desfrutando de um bom filme ou até mesmo treinando meu corpo. Acredito firmemente no equilíbrio entre trabalho e lazer, e essas atividades me proporcionam uma fonte valiosa de relaxamento e inspiração.
 
 🌟 Visão: Estou em busca de oportunidades para aplicar meu conhecimento, aprender com os desafios e contribuir para projetos inovadores na área de tecnologia. Meu objetivo é crescer não apenas como profissional, mas também como pessoa, trazendo uma perspectiva única para a comunidade tecnológica.
-
 </p>
 
 ## Estou Aprendendo
@@ -45,7 +44,7 @@
 </div>
     
   ## 📫 Contatos
-<div aling = "left">
+<div align = "left">
   <!--
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
