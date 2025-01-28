@@ -1,4 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github.)](https://git.io/typing-svg)
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8B+Hello!+Welcome+to+my+Github." alt="Typing SVG" /></a>
+<div>
 
 👋 Me chamo Matheus Nazareth, tenho 25 anos e sou um profissional de TI, atualmente cursando Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2027. Me formei inicialmente em Educação Física, em 2023. Porém, apesar de gostar dessa área, minha atenção sempre foi atraída para a tecnologia. Então decidi mergulhar de cabeça nesse mundo e agora estou constantemente explorando suas vastas áreas para encontrar minha verdadeira paixão dentro desse universo.
 
